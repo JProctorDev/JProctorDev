@@ -42,7 +42,7 @@ A Java arcade game utilizing object-oriented programming, collision detection, a
 
 ### 🧠 Memory Game
 A Windows Forms memory matching game built in Visual Basic .NET featuring randomized gameplay, a timer, and a move counter. The project demonstrates event-driven programming, GUI development, and object-oriented programming.
-🔗 Repository: https://github.com/JProctorDev/memory-game-vb
+- [View Repository](https://github.com/JProctorDev/memory-game-vb)
 
 ### 📦 Inventory Management System
 A desktop application built with C# and Windows Forms featuring CRUD functionality and database integration.
