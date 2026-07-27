@@ -40,8 +40,9 @@ A responsive business website built for a real client using HTML, CSS, JavaScrip
 A Java arcade game utilizing object-oriented programming, collision detection, and Java Swing.
 - [View Repository](https://github.com/JProctorDev/saucer-dodge-java)
 
-### 🏒 Monstars Hockey Website
-A multi-page responsive hockey website featuring custom styling, JavaScript interactions.
+### 🧠 Memory Game
+A Windows Forms memory matching game built in Visual Basic .NET featuring randomized gameplay, a timer, and a move counter. The project demonstrates event-driven programming, GUI development, and object-oriented programming.
+🔗 Repository: https://github.com/JProctorDev/memory-game-vb
 
 ### 📦 Inventory Management System
 A desktop application built with C# and Windows Forms featuring CRUD functionality and database integration.
