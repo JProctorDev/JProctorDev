@@ -33,15 +33,18 @@ After serving in the U.S. Army and working as a Firefighter/EMT, I transitioned 
 
 ### 🏢 Proctor Property Investments
 A responsive business website built for a real client using HTML, CSS, JavaScript, and Bootstrap.
+- [View Repository](https://github.com/JProctorDev/proctor-property-investments)
+- [View Live Website](https://proctor-property-investments.netlify.app/)
+
+### 👾 Saucer Dodge
+A Java arcade game utilizing object-oriented programming, collision detection, and Java Swing.
+- [View Repository](https://github.com/JProctorDev/saucer-dodge-java)
 
 ### 🏒 Monstars Hockey Website
 A multi-page responsive hockey website featuring custom styling, JavaScript interactions.
 
 ### 📦 Inventory Management System
 A desktop application built with C# and Windows Forms featuring CRUD functionality and database integration.
-
-### 👾 Saucer Dodge
-A Java arcade game utilizing object-oriented programming, collision detection, and Java Swing.
 
 --
 
