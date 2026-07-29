@@ -45,7 +45,9 @@ A Windows Forms memory matching game built in Visual Basic .NET featuring random
 - [View Repository](https://github.com/JProctorDev/memory-game-vb)
 
 ### 📦 Inventory Management System
-A desktop application built with C# and Windows Forms featuring CRUD functionality and database integration.
+A desktop inventory management application built with C# and .NET 8 Windows Forms featuring CRUD functionality, object-oriented programming, data binding, input validation, and business logic separation.
+C# • .NET 8 • Windows Forms • OOP • Git • GitHub
+- [View Repository](https://github.com/JProctorDev/inventory-management-system)
 
 --
 
