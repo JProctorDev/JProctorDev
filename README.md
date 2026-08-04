@@ -33,7 +33,7 @@ After serving in the U.S. Army and working as a Firefighter/EMT, I transitioned 
 
 ### 🏢 Proctor Property Investments
 A responsive business website built for a real client using HTML, CSS, JavaScript, and Bootstrap.
-- [View Repository](https://github.com/JProctorDev/proctor-property-investments)
+- [View Repository](https://github.com/JProctorDev/proctor-rei-website)
 - [View Live Website](https://proctor-property-investments.netlify.app/)
 
 ### 👾 Saucer Dodge
